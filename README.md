@@ -1,2 +1,2 @@
-# MIND WEBS VENTURES
-Company configuration Repository
+# .github
+Community health files for the @mindwebs organization
