@@ -35,7 +35,7 @@ Please include any relevant log snippets or files here.
 
 <hr>
 
-## User story 
+## User Story Template
 
 (Example: As an administrator, I want to manage the type of assignment from the mobile application. Because I often move while I am at work and I may be asked to add a issue type at that time.)
 
