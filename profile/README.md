@@ -1,5 +1,6 @@
-## Hi there 👋 Welcome to Mind Webs
-=================================
+## Hi! Welcome to Mind Webs 👋
+
+[![Mind Webs Cover](https://mindwebs.org/mwv-logo.svg)](https://mindwebs.org)
 
 
 <!--
