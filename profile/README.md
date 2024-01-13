@@ -8,9 +8,9 @@
   ·
   <a href="https://www.linkedin.com/company/mindwebs/">LinkedIn</a>
   ·
-  <a href="https://www.linkedin.com/company/mindwebs/jobs/">Careers</a>
+  <a href="https://www.instagram.com/mind_webs/">Instagram</a>
   ·
-  <a href="https://mindwebs.org/contact/">Contact</a>
+  <a href="https://www.facebook.com/mindwebs/">Facebook</a>
 </h6>
 
 <p align="center">
