@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  	<a href="https://github.com/mindwebs/stargazers">
+  	<a href="https://github.com/mindwebs">
 		  <img alt="Stargazers" src="https://img.shields.io/github/stars/mindwebs?style=for-the-badge&logo=starship&color=0F4591&logoColor=D9E0EE&labelColor=302D41">
     </a>
   	<a href="https://github.com/mindwebs">
