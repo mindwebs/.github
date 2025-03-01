@@ -24,9 +24,7 @@
   	<a href="https://github.com/mindwebs">
 		  <img alt="GitHub" src="https://img.shields.io/github/followers/mindwebs?style=for-the-badge&logo=github&color=2EA0D8&logoColor=D9E0EE&labelColor=302D41"/>
     </a>
-  	<a href="https://discord.gg/KgwCGqZS49">
-		  <img alt="Discord" src="https://img.shields.io/discord/1121452922891423864?style=for-the-badge&logo=discord&color=DCEBF5&logoColor=D9E0EE&labelColor=302D41">
-    </a>
+  
 </p>
 
 &nbsp;
@@ -40,13 +38,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/KgwCGqZS49">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo"/>
-    </picture>
-  </a>
+
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
   <a href="https://twitter.com/mind_webs">
     <picture>
@@ -56,13 +48,7 @@
     </picture>
   </a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
-  <a href="https://reddit.com/r/mindwebs">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/>
-    </picture>
-  </a>
+
 </p>
 
 &nbsp;
